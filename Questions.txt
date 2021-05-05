@@ -1,0 +1,9 @@
+1. What is the performance according to marks percentage between male and female students?
+2. What are the marks percentages of the students city wise?
+3. Which Branch Students attendance is better?
+4. What is the Average percentage of marks of the students who are having less than 5 backlogs?
+5. Compare students marks percentages according to their year of passing.
+6. Use descriptive analysis to describe the whole data.
+7. Draw a sample from the dataset whose mean of marks percentage is equal to the population.
+
+For all the above Questions, provide graphs or plots to support ur answers.
